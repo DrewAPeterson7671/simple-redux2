@@ -4,7 +4,9 @@ import ReduxDemo from './ReduxDemo';
 import './App.css';
 
 class App extends React.Component {
+
   render() {
+
     return (
       <div>
       <ReduxDemo/>
